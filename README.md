@@ -2,9 +2,6 @@
 
 **UniVentures** is a full-stack web application that helps college students discover and share local experiences tied to their university. By integrating real-time data from the Google Places API with community-submitted content, the platform allows users to explore what’s around campus, rate and review locations, and contribute their own adventures.
 
-## Live Demo
-
-Visit the deployed site: [UniVentures](https://univentures.vercel.app/)
 
 ## Features
 
